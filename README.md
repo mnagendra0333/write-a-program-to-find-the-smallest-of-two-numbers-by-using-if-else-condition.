@@ -1,0 +1,1 @@
+# write-a-program-to-find-the-smallest-of-two-numbers-by-using-if-else-condition.
